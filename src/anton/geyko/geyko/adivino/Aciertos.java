@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * Todo funciona como es debido
+ */
+
 public class Aciertos {
 
     public static void main(String[] args) {
