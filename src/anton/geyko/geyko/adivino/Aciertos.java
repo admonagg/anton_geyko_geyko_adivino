@@ -19,5 +19,6 @@ public class Aciertos {
         } while (n != x);
         System.out.print("Exelente!!! Haz acertado , No. de intentos: "+cont );
         sc.close();
+        //Funciona perfectamente.
     }
 }
